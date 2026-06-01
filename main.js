@@ -286,7 +286,7 @@ let maidWork = setInterval(maid,1000000)
 function help() {
     const message = '这是一个被遗忘的js代码 \n 有一天，一位老师布置了一个制作信息机电学院官网的html+css作业 \n 一个学生打开了电脑，新建了index.html，新建了css/main.css，但ta还新建了js/main.js，创造了这与index.html与main.css毫无联系的世界... \n 于是，这片位于遗忘之虚空的世界开始建立，但很少有人造访，在学生提交本次作业，老师打分之后，女仆和她的庄园便被遗忘在人世的某个硬盘角落，逐渐冰封... \n 在名为window的舞台上并没有main.js的戏份，整场戏剧中只有index.html和main.css的表演，他们的台词从来没有提到过这个小世界，也从来没有观众知道今天的戏剧中有三位演员，从世界诞生开始便开始工作的女仆小姐一直只是幕布后面的阴影...'
     console.log(message)
-    const aboutMaid = 'Try conversation() to learn more aboud maid...' 
+    const aboutMaid = 'Try conversation() to learn more about maid...' 
     console.warn(aboutMaid)
 }
 
